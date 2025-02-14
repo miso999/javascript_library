@@ -1,0 +1,35 @@
+header {
+  /* background-color: #84bbfe; */
+  background-color: #84bbfe;
+}
+
+nav {
+  width: 100%;
+  max-width: 1200px;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav > ul {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  list-style: none;
+}
+
+.header_first_left_text {
+  font-size: 20px;
+  font-weight: 900;
+  color: white;
+  top: 500px;
+}
+
+.header_first_right_option {
+  color: white;
+  top: 50px;
+  font-weight: 600;
+}

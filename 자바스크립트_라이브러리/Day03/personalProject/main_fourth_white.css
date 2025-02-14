@@ -1,0 +1,24 @@
+.white_fourth_main_page {
+  background-color: #ebc3ce;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.white_fourth_video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.white_fourth_text {
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+  padding-top: 10px;
+  color: #002daa;
+}
