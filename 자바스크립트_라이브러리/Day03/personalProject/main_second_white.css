@@ -1,0 +1,66 @@
+.white_second_main_page {
+  background-color: #84bbfe;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.white_second_image > img {
+  /* position: absolute; */
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding-top: 5px;
+  right: 500px;
+}
+
+.image_like > img {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  left: 40px;
+  bottom: 150px;
+}
+
+.image_bear > img {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  right: 3px;
+  top: 40px;
+}
+
+.image_traveller > img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 160px;
+  top: 190px;
+}
+
+.image_shinhan > img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 600px;
+  top: 100px;
+}
+
+.image_purpleBear > img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 600px;
+  bottom: 100px;
+}
+
+.image_good > img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 370px;
+  bottom: 190px;
+}

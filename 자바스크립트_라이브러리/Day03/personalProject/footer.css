@@ -1,0 +1,57 @@
+footer {
+  background-color: #ffffff;
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.first_logo {
+  color: #002eaa;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.second_logo {
+  color: #9cc7f0;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.footer_logo {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.copyright {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.instagram_logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 55px;
+  height: 55px;
+  float: right;
+  font-size: 40px;
+  background-image: linear-gradient(
+    to top,
+    #3f51b1 0%,
+    #5a55ae 13%,
+    #7b5fac 25%,
+    #8f6aae 38%,
+    #a86aa4 50%,
+    #cc6b8e 62%,
+    #f18271 75%,
+    #f3a469 87%,
+    #f7c978 100%
+  );
+  border-radius: 9999px;
+}
+
+.instagram_circle {
+  border-radius: 9999px;
+  border: black;
+}

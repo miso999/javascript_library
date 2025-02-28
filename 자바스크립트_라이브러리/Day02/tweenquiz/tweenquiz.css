@@ -1,0 +1,32 @@
+.body {
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  border: 1px solid pink;
+}
+
+.a box {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.b box {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.c box {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.d box {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}

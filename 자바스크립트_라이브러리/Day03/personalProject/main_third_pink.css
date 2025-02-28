@@ -1,0 +1,32 @@
+.pink_third_main_page {
+  background-color: #ebc3ce;
+  width: 100vw;
+  height: 150vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.pink_third_middle_text {
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.pink_third_image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.pink_third_lower_button {
+  border: 1px solid #ebc3ce;
+  font-size: 20px;
+  background-color: #ef839d;
+  color: white;
+  border-radius: 80px;
+  padding: 20px 20px;
+}

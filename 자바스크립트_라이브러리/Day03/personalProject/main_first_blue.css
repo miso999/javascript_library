@@ -1,0 +1,26 @@
+.blue_first_main_page {
+  background-color: #84bbfe;
+  width: 100vw;
+  height: 100vh;
+}
+
+.blue_first_section {
+  display: flex;
+  flex-direction: column;
+  padding: 70px 0px;
+}
+
+.blue_first_main_text {
+  margin: 0 auto;
+  color: white;
+  font-weight: 900;
+  font-size: 45px;
+  text-align: center;
+}
+
+.blue_first_video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}

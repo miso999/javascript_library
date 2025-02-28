@@ -1,0 +1,29 @@
+.white_last_main_page {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2d9a1;
+  position: relative;
+}
+
+.white_last_text {
+  font-size: 55px;
+  font-weight: 900;
+  text-align: center;
+  padding-top: 10px;
+  color: #002daa;
+  position: absolute;
+  top: 300px;
+}
+
+.white_last_image > img {
+  width: 300px;
+  height: 300px;
+  left: 450px;
+  position: absolute;
+  margin-bottom: 300px;
+  border-radius: 20px;
+}

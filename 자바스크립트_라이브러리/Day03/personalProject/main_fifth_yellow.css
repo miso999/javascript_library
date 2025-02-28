@@ -1,0 +1,28 @@
+.yellow_fifth_main_page {
+  background-color: #f2d9a1;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.yellow_fifth_text {
+  color: #002eab;
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.yellow_fifth_button {
+  background-color: #f3b747;
+  color: white;
+  font-size: 20px;
+  font-weight: 900;
+  text-align: center;
+  border: 1px solid #f3b747;
+  padding: 20px;
+  border-radius: 50px;
+}
